@@ -1,0 +1,161 @@
+,Station Name,Average Rating,Average Reviews,Number of Bikes
+0,15e avenue / Laurier,3.95,32.1,23
+1,6e Avenue / Bélanger,4.325,16.25,19
+2,6e avenue / Villeray,4.25,11.65,15
+3,Atwater / Greene,4.175,170.3,25
+4,Atwater / Sherbrooke,4.2,293.65,23
+5,Aylwin / Ontario,4.175,37.5,27
+6,BAnQ (Berri),4.175,307.7,15
+7,Ball / Bloomfield,4.05,46.1,11
+8,Bennett / Ste-Catherine,4.2,28.9,21
+9,Berri / Rachel,4.15,395.55,19
+10,Bibliothèque d'Ahuntsic (Lajeunesse / Fleury),3.825,9.3,14
+11,CHSLD Joseph-François-Perrault (St-Michel / Everett),4.2,10.05,17
+12,CHSLD Robert Cliche (de Bellechasse / 16e avenue),4.275,13.25,15
+13,CHSLD St-Michel (8e avenue / Jarry),3.675,9.25,15
+14,Calixa-Lavallée / Rachel,4.3,423.1,30
+15,Cartier / Marie-Anne,4.325,273.15,26
+16,Cathcart / McGill College,4.0,270.1,27
+17,Chabanel / Tolhurst,4.2,17.6,15
+18,Chabanel / du Parc,4.1,17.1,30
+19,Cité des Arts du Cirque (Paul Boutet / des Regrattiers),3.7,8.4,34
+20,Clark / Ontario,4.25,257.3,18
+21,Clark / de l'Arcade,4.325,157.55,19
+22,Collège de Rosemont (Beaubien / 15e avenue),4.325,11.05,26
+23,Complexe Desjardins (St-Urbain / René-Lévesque),4.125,291.7,40
+24,Complexe sportif Claude-Robillard (Émile-Journault),4.15,11.6,19
+25,CÉGEP du Vieux-Montréal (Ontario / de l'Hôtel-de-Ville),4.15,288.0,15
+26,Dorion / Ontario,4.225,121.3,33
+27,Duke / Nazareth,4.3,291.95,15
+28,Fabrik8 (Waverly / Jean-Talon),4.2,79.35,21
+29,Frontenac / Ste-Catherine,4.25,13.95,19
+30,Gare d'autocars de Montréal (Berri / Ontario),4.175,294.25,15
+31,Garnier / Beaubien,4.35,58.25,14
+32,Gary-Carter / St-Laurent,4.25,80.4,36
+33,Georges-Vanier / Notre-Dame,4.15,222.75,19
+34,Hamel / Sauriol,4.3,7.75,15
+35,Jacques-Casault / Christophe-Colomb,4.375,16.85,21
+36,Jean-Talon / de l'Épée,4.1,89.9,15
+37,Jeanne-Mance / René-Lévesque,4.2,283.35,58
+38,Jeanne-Mance / Sherbrooke,4.225,261.95,24
+39,La Tour de Montréal (Pierre-de-Coubertin / Bennett),4.075,58.4,25
+40,Lajeunesse / Villeray,4.275,50.1,15
+41,Lanaudière / Jean-Talon,4.375,53.55,23
+42,Laurier / St-Denis,4.3,234.55,22
+43,Marché Atwater,4.175,171.35,32
+44,Marché Jean-Talon (Casgrain / Shamrock),4.175,84.45,25
+45,Marché Maisonneuve,4.075,50.55,22
+46,Marmier / St-Denis,4.3,145.0,27
+47,Masson / Molson,4.275,28.35,18
+48,McTavish / Sherbrooke,4.15,265.4,46
+49,Messier / St-Joseph,4.3,53.3,15
+50,Milton / St-Laurent,4.15,203.5,21
+51,Molson / Wiliam-Tremblay,4.2,31.85,29
+52,Métro Acadie (de l'Acadie / Beaumont),4.1,76.2,13
+53,Métro Atwater (Atwater / Ste-Catherine),4.2,277.6,35
+54,Métro Champ-de-Mars (Viger / Sanguinet),4.25,305.4,35
+55,Métro Crémazie (Crémazie / Lajeunesse),4.0,20.25,15
+56,Métro Frontenac (Ontario / du Havre),4.0,23.75,23
+57,Métro Georges-Vanier (St-Antoine / Canning),4.2,298.25,17
+58,Métro Henri-Bourassa (Henri-Bourassa / Millen),3.8,6.5,16
+59,Métro Joliette  (Hochelaga / Joliette),4.05,45.65,29
+60,Métro Laurier (Berri / St-Joseph),4.3,424.6,18
+61,Métro Lionel-Groulx (St-Jacques / Atwater),4.125,176.6,33
+62,Métro Lucien-L'Allier  (Lucien l'Allier / Argyle),4.2,297.05,11
+63,Métro Mont-Royal (Utilités publiques / Rivard),4.275,437.9,23
+64,Métro Papineau (Dorion / De Maisonneuve),4.175,118.15,32
+65,Métro Parc  (Hutchison / Ogilvy),4.175,88.7,33
+66,Métro Peel (de Maisonneuve / Stanley),4.175,254.0,49
+67,Métro Pie-IX (Pierre-de-Coubertin / Desjardins),4.075,67.95,41
+68,Métro Place-d'Armes (Viger / St-Urbain),4.2,316.4,29
+69,Métro Sauvé (Berri / Sauvé),4.175,10.1,18
+70,Métro Sherbrooke (de Rigaud / Berri),4.225,295.6,27
+71,Métro St-Laurent ( de Maisonneuve / St-Laurent),4.25,286.25,24
+72,Métro St-Michel (Shaughnessy / St-Michel),4.25,9.95,15
+73,Métro Viau ( Pierre-de-Coubertin / Viau),3.9,26.8,47
+74,Notre-Dame  / St-Martin,4.125,200.35,19
+75,Notre-Dame / St-Gabriel,4.125,259.5,15
+76,Omer-Lavallée / du Midway,4.225,22.75,17
+77,Ontario / Ville-Marie,4.175,14.95,19
+78,Ottawa / William,4.05,152.1,15
+79,Ottawa / du Séminaire,4.175,179.5,23
+80,Papineau / Émile-Journault,3.5,2.5,34
+81,Parc Henri-Julien (Legendre/Henri-Julien),4.3,10.95,19
+82,Parc Jeanne-Mance (du Mont-Royal / du Parc),4.35,146.75,33
+83,Parc Jeanne-Mance (monument sir George-Étienne-Cartier),4.275,451.6,46
+84,Parc Molson (d'Iberville / Beaubien),4.4,38.35,18
+85,Parc Nicolas-Tillemont (des Érables / Villeray),4.25,13.65,18
+86,Parc St-Henri (Laporte / Guay),4.25,178.75,15
+87,Parc Villeray (Christophe-Colomb / Jarry),4.3,28.05,15
+88,Peel / Notre-Dame,4.325,363.15,47
+89,Pierre-de-Coubertin / Aird,4.0,44.7,19
+90,Place Valois (Valois / Ontario),4.025,39.7,19
+91,Place d'Youville / McGill,4.25,347.6,19
+92,Place du Canada (Peel / des Canadiens-de-Montréal),4.25,312.55,26
+93,Porte de Québec / St-André,4.2,249.65,23
+94,Préfontaine / Marcel-Pépin,4.225,27.45,19
+95,Rachel / de Brébeuf,4.3,431.7,29
+96,René-Lévesque / Panet,4.2,119.1,19
+97,René-Lévesque / Papineau,4.225,117.15,38
+98,Richmond / des Bassins,4.025,148.05,31
+99,Robert-Bourassa / René-Lévesque,4.15,298.65,33
+100,Robert-Bourassa / St-Maurice,4.3,313.3,23
+101,Roy / St-André,4.3,490.7,21
+102,Sherbrooke / Jeanne-d'Arc,4.025,57.05,27
+103,Smith / Peel,4.125,248.5,19
+104,Square Victoria (Viger / du Square-Victoria),4.3,373.05,19
+105,Square Viger (Berri / Viger),4.25,288.95,29
+106,St-Antoine / Jean-Paul Riopelle,4.325,380.95,23
+107,St-Antoine / de la Montagne,4.275,385.25,19
+108,St-Denis / de Maisonneuve,4.15,316.65,26
+109,St-Grégoire / Christophe-Colomb,4.35,173.8,35
+110,St-Hubert / de Maisonneuve (nord),4.25,204.35,22
+111,St-Hubert / de Maisonneuve (sud),4.225,228.8,18
+112,St-Hubert / du Mont-Royal,4.25,458.05,21
+113,St-Jacques / Guy,4.275,298.3,23
+114,St-Jacques / McGill,4.275,354.5,11
+115,St-Jacques / Vinet,4.175,227.2,15
+116,St-Jacques / des Seigneurs,4.15,253.25,23
+117,St-Rémi / Ste-Émilie,4.125,52.7,26
+118,St-Urbain / Laurier,4.325,187.35,19
+119,St-Viateur / Casgrain,4.3,125.4,11
+120,Stanley / René-Lévesque,4.2,284.95,39
+121,Ste-Catherine / Bishop,4.125,297.35,19
+122,Ste-Catherine / Drummond,4.1,249.9,19
+123,Ste-Catherine / St-Clément,4.125,23.1,15
+124,Ste-Catherine / Towers,4.075,205.85,23
+125,Ste-Catherine / Union,4.1,274.05,34
+126,Ste-Émilie / Sir-Georges-Etienne-Cartier,4.2,95.8,23
+127,Tolhurst / Fleury,4.125,9.85,19
+128,Viger / Chenneville,4.2,306.75,34
+129,Villeray / de Normanville,4.375,35.15,23
+130,William / Robert-Bourassa,4.35,302.0,21
+131,Workman / Vinet,4.15,172.35,23
+132,de Bellechasse / de Lanaudière,4.35,61.3,18
+133,de Bleury / de Maisonneuve,4.2,236.5,21
+134,de Chambly / de Rouen,4.125,39.9,11
+135,de Gaspé / Marmier,4.35,153.85,19
+136,de Maisonneuve / Aylmer (est),4.15,213.4,21
+137,de Maisonneuve / Aylmer (ouest),4.125,264.25,37
+138,de Maisonneuve / Fullum,4.125,87.45,17
+139,de Maisonneuve / Mackay,4.075,255.1,19
+140,de Maisonneuve / Mansfield (nord),4.125,277.15,18
+141,de Maisonneuve / Mansfield (sud),4.05,269.2,27
+142,de Maisonneuve / Mansfield (sud-est),4.075,307.35,22
+143,de l'Hôtel-de-Ville / Rachel,4.275,602.0,14
+144,de la Commune / Berri,4.225,295.45,51
+145,de la Commune / King,4.275,337.75,71
+146,de la Commune / Place Jacques-Cartier,4.175,282.0,80
+147,de la Commune / St-Sulpice,4.15,266.7,43
+148,de la Côte St-Paul / St-Ambroise,4.1,56.0,27
+149,de la Montagne / Notre-Dame,4.25,342.65,23
+150,des Bassins / du Séminaire,4.175,113.65,35
+151,des Carrières / Marquette,4.3,69.3,25
+152,des Pins / St-Laurent,4.2,423.3,23
+153,des Érables / Rachel,4.2,213.65,19
+154,du Havre / Hochelaga,4.275,27.4,19
+155,du Mont-Royal / Clark,4.2,420.85,34
+156,du Mont-Royal / de Brébeuf,4.15,414.95,11
+157,du Parc-Lafontaine / Rachel,4.325,391.15,19
+158,du Square Dorchester / Peel,4.15,253.3,14
+159,Émile-Duployé / Sherbrooke,4.275,376.35,22
