@@ -1,5 +1,5 @@
 # Final-Project-Statistical-Modelling-with-Python
-My project was focused on analyzing businesses around various bike stations within the City of New York to see if there's a correlation between the number of bikes available at the station and the ratings of the businesses within that station.
+My project was focused on analyzing businesses around various bike stations within the City of Montreal to see if there's a correlation between the number of bikes available at the station and the ratings of the businesses within that station.
 ## Project/Goals
 (fill in your description and goals here)
 
